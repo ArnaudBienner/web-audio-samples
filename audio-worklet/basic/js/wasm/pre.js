@@ -1,0 +1,2 @@
+Module['ENIVIRONMENT']='WORKER'
+
